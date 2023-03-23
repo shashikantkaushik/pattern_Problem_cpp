@@ -2,7 +2,9 @@
 # Solved examples of Patterns problems using C++
 This repository contains some of the Patterns Problem which are important and give us more grip over the loops and help us in logic Building. The problems have been taken from various available sources on the internet and visitors are advised to first go through the problem statement and solve it on their own.
 
-![image](https://github.com/shashikantkaushik/pattern_Problem_cpp/blob/main/images.jpeg){ width: 200px; }
+![image](https://github.com/shashikantkaushik/pattern_Problem_cpp/blob/main/images.jpeg){:height="100px" width="100px"}.
+
+
 ---
 # Problem Solving Approach
 ## 1. Pattern Design Problems
