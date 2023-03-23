@@ -2,7 +2,7 @@
 # Solved examples of Patterns problems using C++
 This repository contains some of the Patterns Problem which are important and give us more grip over the loops and help us in logic Building. The problems have been taken from various available sources on the internet and visitors are advised to first go through the problem statement and solve it on their own.
 
-![mypic](https://github.com/shashikantkaushik/pattern_Problem_cpp/blob/main/images.jpeg | width=150)
+![mypic](https://github.com/shashikantkaushik/pattern_Problem_cpp/blob/main/images.jpeg)
 
 
 ---
