@@ -16,7 +16,6 @@ Step 2: Define the pattern columns <br/>
 &emsp; &emsp; &emsp; 2.1.3 Boundary analysis method <br/>
 Step 3: Reverse the row-iteration to construct inverted shapes <br/>
 Step 4: Change line after every row-iteration
-# Homzy-A Home Service App
 
 
 
