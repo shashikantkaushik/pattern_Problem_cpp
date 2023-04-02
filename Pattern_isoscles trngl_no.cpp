@@ -9,7 +9,7 @@
 #include<iostream>
 using namespace std;
 int main(){ 
-    int n,i=1,j; 
+    int n,i=1,j;  
     cout<<"enter n";
     cin>>n;
     while(i<=n){
