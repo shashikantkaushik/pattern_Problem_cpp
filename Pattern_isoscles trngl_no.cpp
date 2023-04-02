@@ -15,7 +15,7 @@ int main(){
     while(i<=n){
        
         
-        
+         
         int space=1;
         while(space<=n-i){
             cout<<" ";
