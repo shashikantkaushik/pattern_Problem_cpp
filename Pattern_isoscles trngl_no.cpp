@@ -32,7 +32,7 @@ int main(){
         int k=2;
         while(k<=i){
             cout<<j;
-            k++;
+            k++; 
             j--;
             }
         
